@@ -1,5 +1,9 @@
+<<<<<<< HEAD:basic/beginner/BeginnerExercises.java
 
 import java.lang.reflect.Field;
+=======
+package basic.c01_beginner;
+>>>>>>> bd25255495a517a2a582928869bd394b5da4e40c:basic/c01_beginner/BeginnerExercises.java
 
 /*
 Clase 2 - Comentarios, Variables, Constantes, Tipos de datos y Operadores (09/04/2025)
